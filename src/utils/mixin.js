@@ -14,6 +14,10 @@ export default {
     dataAdSlot: {
       type: String,
       default: ''
+    },
+    dataAdStyle: {
+      type: String,
+      default: 'display:block; text-align:center;'
     }
   },
   data () {
